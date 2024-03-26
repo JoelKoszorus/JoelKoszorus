@@ -11,12 +11,11 @@ My journey studying information technology has led me to develop a passion for c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SOC Automation Lab|
-| Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis with Wazuh | <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a> |
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a> |
+| Incident Response Planning and Execution      |<a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a> |
+| Case Management with TheHive                  | <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a> |
 
 
 ## Tools
