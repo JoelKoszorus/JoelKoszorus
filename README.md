@@ -54,5 +54,5 @@ My journey studying information technology has led me to develop a passion for c
 <div>
 
 ## Projects
-- SOC Automation Project
+- <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a>
 - Active Directory Lab
