@@ -5,7 +5,7 @@ I am a current BAS Cybersecurity student with a profound interest in technology 
 
 ## Objective
 
-My journey studying information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey studying information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field..
 
 ## Skills
 
@@ -54,4 +54,4 @@ My journey studying information technology has led me to develop a passion for c
 
 ## Projects
 - <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a>
-- Active Directory Lab
+- SIEM System - ELK
