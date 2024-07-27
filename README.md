@@ -5,7 +5,7 @@ I am a current BAS Cybersecurity student with a profound interest in technology 
 
 ## Objective
 
-My journey studying information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field..
+My journey studying information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
 
