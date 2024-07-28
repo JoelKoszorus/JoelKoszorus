@@ -1,4 +1,4 @@
-# Hello, I'm Joel 👋
+# Hi, I'm Joel 👋
 I am an ambitious and motivated Cybersecurity & IT student at Bellevue College with a profound interest in technology and a dedication to solving complex problems. I am eager to apply my technical skills and academic knowledge to a challenging role in the industry. I bring a solid foundation with networking, cloud computation, and information security. I am committed to continuous learning and professional growth, looking forward to expanding my horizons.
 
 <a href="https://www.linkedin.com/in/joelkoszorus/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
