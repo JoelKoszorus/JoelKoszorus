@@ -8,8 +8,8 @@ I am an ambitious and motivated Cybersecurity & IT student at Bellevue College w
 My journey studying information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Projects
-- <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a>
 - <a href="https://github.com/joelkoszorus/SIEM-System">SIEM System - ELK</a>
+- <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a>
 
 ## Skills
 
