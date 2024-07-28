@@ -54,4 +54,4 @@ My journey studying information technology has led me to develop a passion for c
 
 ## Projects
 - <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a>
-- SIEM System - ELK
+- <a href="https://github.com/joelkoszorus/SIEM-System">SIEM System - ELK</a>
