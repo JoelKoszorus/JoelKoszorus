@@ -23,26 +23,6 @@ My journey studying information technology has led me to develop a passion for c
 | Incident Response Planning and Execution      | <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a> |
 | Case Management with TheHive                  | <a href="https://github.com/joelkoszorus/SOC-Automation">SOC Automation Project</a> |
 
-
-## Tools
-
-### Networking
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=wazuh&logoColor=white" />
-    <img src="https://img.shields.io/badge/ELK%20Stack-5C2D91?style=for-the-badge&logo=elastic-stack&logoColor=white" />
-</div>
-
-### SOAR
-<div>
-    <img src="https://img.shields.io/badge/-Shuffle-4CAF50?style=for-the-badge" />
-</div>
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/Certiport%20Cybersecurity-FF6F00?style=for-the-badge&logo=shield&logoColor=white" />
@@ -51,4 +31,25 @@ My journey studying information technology has led me to develop a passion for c
 <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0072C6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]" />
 <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <div>
+
+## Tools
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Wazuh-1E90FF?style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/ELK%20Stack-5C2D91?style=for-the-badge&logo=elastic-stack&logoColor=white" />
+</div>
+
+### Networking
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-1679A7?style=for-the-badge&logo=nmap&logoColor=white" />
+</div>
+
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/-Shuffle-4CAF50?style=for-the-badge" />
+</div>
+
+
 
